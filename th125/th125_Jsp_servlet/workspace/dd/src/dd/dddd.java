@@ -1,5 +1,5 @@
 package dd;
 
 public class dddd {
-	String arc="";
+	String arc="ssss";
 }
